@@ -1,4 +1,4 @@
-// #pragma mark - 
+// #pragma mark -
 // Mark section
 //
 // IDECodeSnippetCompletionPrefix: mark section
